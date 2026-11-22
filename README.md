@@ -1,4 +1,4 @@
-# Hi, I'm Andreas Papathanasiou 👋
+# Hi, I'm Andr3as👋
 
 Full Stack Developer building interactive 3D, mobile, AI, and mixed reality apps.
 🌐 **Portfolio:** [andr3as.dev](https://andr3as.dev)
