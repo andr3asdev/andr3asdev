@@ -14,7 +14,7 @@ A real-time 3D shark live wallpaper and virtual pet simulator for Android built 
 * **Battery-Smart Engine:** Supports 45/60/120 FPS, day/night sync, and instant GPU pause.
 * **Privacy First:** Zero ads, zero tracking, 100% offline.
 
-👉 **[Official Website](https://petshark.app)** · **[Get it on Google Play](https://google.com)** · **[App Hub & Issues](https://github.com)**
+👉 **[Official Website](https://petshark.app)** · **[Get it on Google Play](https://play.google.com/store/apps/details?id=com.petshark.livewallpaper)** · **[App Hub & Issues](https://github.com)**
 
 ---
 
